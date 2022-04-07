@@ -27,13 +27,13 @@
     ```
 * 在浏览器中打开 Sentinel Dashboard 控制台
 
-    link：http://127.0.0.1:8021/
+    link：http://127.0.0.1:8080/
 
 ## 常用属性配置
 
 | name                         | description                            | option                         |
 | ---------------------------- | -------------------------------------- | ------------------------------ |
-| SERVER_PORT                  | server启动的端口                         | 8021                           |
+| SERVER_PORT                  | server启动的端口                         | 8080                           |
 | PROJECT_NAME                 | 项目名称                                 | sentinel-dashboard             |
 | USERNAME                     | dashboard登陆用户名                      | 默认sentinel                    |
 | PASSWORD                     | dashboard登陆密码                        | 默认sentinel                    |

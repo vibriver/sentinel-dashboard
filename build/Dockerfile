@@ -2,8 +2,8 @@ FROM openjdk:8u322-jre
 LABEL author="vibrive"  email="38735762.qq.com"
 
 ENV BASE_DIR="/home/sentinel" \
-    SERVER_PORT="8021" \
-    DASHBOARD_SERVER="localhost:8021" \
+    SERVER_PORT="8080" \
+    DASHBOARD_SERVER="localhost:8080" \
     PROJECT_NAME="sentinel-dashboard" \
     JAVA_OPTS="" \
     TIME_ZONE="Asia/Shanghai"
